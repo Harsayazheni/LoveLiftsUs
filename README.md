@@ -35,7 +35,9 @@ To add interactivity using javascript
 
 ## Built With
 Canva
-figma
+Figma
+HTML
+CSS
 Googleforms
 
 ## Try it out
@@ -45,3 +47,6 @@ https://www.figma.com/proto/wjGhGELa7cEntjwlGhvcsB/LoveLiftsUs?type=design&node-
 
 ### Processes
 https://www.figma.com/file/WOf9Ypjh8lPlbe95iB5NTe/Process-of-LoveLiftsUs?type=design&node-id=0%3A1&mode=design&t=6jJ0tVIkVS5NDX78-1
+
+#### Assets
+https://drive.google.com/drive/folders/1Q3HM5xO5wE3NQfj_uPj0Zx4yS5nxZvk0?usp=drive_link

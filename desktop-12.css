@@ -1,0 +1,230 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-12-zmw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-12-bg.png');
+}
+.desktop-12-zmw .auto-group-rsts-9eq {
+  width: 193.9rem;
+  height: 18.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-rsts-9eq .rectangle-18-JXj {
+  width: 192rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7793b5;
+}
+.desktop-12-zmw .auto-group-rsts-9eq .people-zone-r3T {
+  width: 34.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 78.65rem;
+  top: 3.1rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-zmw .auto-group-rsts-9eq .beige-simple-one-line-butterfly-events-logo-1-3-wKo {
+  width: 33.4rem;
+  height: 17rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR {
+  box-sizing: border-box;
+  padding: 0rem 3.9rem 3.4rem 3.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-zxh7-bQM {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 30.1rem;
+  position: relative;
+  background-color: #d4ddee;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-zxh7-bQM .senior-and-child-care-kHF {
+  width: 54.4rem;
+  height: 12rem;
+  position: absolute;
+  left: 65rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Qwigley, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-zxh7-bQM .providing-compassionate-care-for-seniors-and-children-ensuring-comfort-safety-and-well-being-across-generations-rbB {
+  width: 166.4rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 9rem;
+  top: 12.2rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh {
+  margin: 0rem 8.5rem 0rem 11rem;
+  width: calc(100% - 19.5rem);
+  height: 47.6rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-sb45-E5w {
+  margin: 0.6rem 17.5rem 1.7rem 0rem;
+  box-sizing: border-box;
+  padding: 2.2rem 3.15rem 2.85rem 2.25rem;
+  width: 54.3rem;
+  height: calc(100% - 2.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d5ddee;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-sb45-E5w .volunteer-to-get-involved-in-helping-seniors-and-children-Wp9 {
+  max-width: 48.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-sb45-E5w .image-8-qLd {
+  margin-bottom: 0.35rem;
+  width: 26rem;
+  height: 25.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-sb45-E5w .frame-12-xRF {
+  margin: 0rem 7.55rem 0rem 8.45rem;
+  width: calc(100% - 16rem);
+  height: 4.8rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-asbo-mtV {
+  margin-right: 20rem;
+  width: 18.7rem;
+  height: 18.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-10-bg.png');
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-1bcv-VpV {
+  margin-bottom: 2.3rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4rem 2.15rem 5.6rem;
+  width: 54.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d5ddee;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-1bcv-VpV .bridge-the-generations-with-love-and-laughter-p65 {
+  max-width: 44.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-1bcv-VpV .image-9-jTw {
+  margin: 0rem 0rem 0.35rem 0.1rem;
+  width: 25.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-12-zmw .auto-group-v9hj-4QR .auto-group-agd7-hrh .auto-group-1bcv-VpV .frame-13-rHf {
+  margin: 0rem 6.7rem 0rem 5.1rem;
+  width: calc(100% - 11.8rem);
+  height: 4.8rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}

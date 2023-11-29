@@ -1,0 +1,203 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-4-btm {
+  width: 100%;
+  height: 102rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 125.23%;
+  background-position: -0.1254rem 14.749rem;
+  background-image: url('../assets/desktop-4-bg.png');
+}
+.desktop-4-btm .auto-group-ulc1-kWm {
+  box-sizing: border-box;
+  padding: 4rem 3.9rem 4.3rem 3.8rem;
+  width: 192rem;
+  height: 87.3rem;
+  position: absolute;
+  left: 0;
+  top: 14.7rem;
+  border-bottom: solid 0.1rem #000000;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-ne9f-FTX {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 30.1rem;
+  position: relative;
+  background-color: #d4ddee;
+  border-radius: 2rem;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-ne9f-FTX .together-we-can-create-a-brighter-future-please-consider-donating-today-and-be-a-part-of-the-positive-change-were-making-register-now-and-become-a-part-of-us-nyF {
+  width: 170.5rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 2.75rem;
+  top: 10.6rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-ne9f-FTX .fundraising-qAq {
+  width: 28.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 77.85rem;
+  top: 0;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Qwigley, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-9mzy-L7b {
+  margin: 0rem 0rem 8.5rem 0.6rem;
+  width: 59.3rem;
+  height: 10.1rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #000000;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-fjvd-zT3 {
+  margin: 0rem 129.4rem 6.9rem 3.6rem;
+  width: calc(100% - 133rem);
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-fjvd-zT3 .your-name--WgH {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #ffffff;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-fjvd-zT3 .frame-2-dF7 {
+  box-sizing: border-box;
+  padding: 1rem 1rem 0.9rem 1rem;
+  width: 33.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #959494;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #fffafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-aqqm-6uP {
+  margin: 0rem 129.4rem 0rem 3.5rem;
+  width: calc(100% - 132.9rem);
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-aqqm-6uP .mobile-no--q6H {
+  margin: 0.7rem 2rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #ffffff;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .auto-group-aqqm-6uP .frame-3-ZY5 {
+  box-sizing: border-box;
+  padding: 1rem 1rem 0.9rem 1rem;
+  width: 33.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #959494;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-btm .auto-group-ulc1-kWm .frame-4-dnq {
+  margin: 0rem 88.2rem 90.2rem 79.8rem;
+  width: calc(100% - 168rem);
+  height: 6.7rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1075;
+  color: #000000;
+  font-family: Quattrocento Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d5ddee;
+  border-radius: 1rem;
+}
+.desktop-4-btm .auto-group-uj17-HMb {
+  width: 192rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7793b5;
+}
+.desktop-4-btm .beige-simple-one-line-butterfly-events-logo-1-2-a5o {
+  width: 33.4rem;
+  height: 17rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-4-btm .desktop-4-btm-bg {
+  width: 192rem;
+  height: 102rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7e6f40b44389115a6df0cab128deacaa1be8cd29');
+}

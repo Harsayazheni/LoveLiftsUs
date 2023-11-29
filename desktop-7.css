@@ -1,0 +1,167 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-7-H93 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-7-H93 .auto-group-yme9-pPs {
+  width: 100%;
+  height: 80.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .rectangle-17-ZcM {
+  width: 192rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7ba885;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .planet-protect-785 {
+  width: 41.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 75rem;
+  top: 3.1rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .rectangle-15-zxZ {
+  width: 38.5rem;
+  height: 33.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 15.2rem;
+  top: 46.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .rectangle-18-WR7 {
+  width: 38.5rem;
+  height: 33.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 76.7rem;
+  top: 46.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .rectangle-19-QmP {
+  width: 40.9rem;
+  height: 38.8rem;
+  cursor: pointer;
+  position: relative;
+  left: 139.3rem;
+  top: 41.3rem;
+  background-size: 94.132% 99.227%;
+  background-position: 0.3235rem 11.9094rem;
+  background-image: url('../assets/rectangle-19.png');
+  border-radius: 2rem;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .frame-14-cky {
+  width: 25.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 84rem;
+  top: 48.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #000000;
+  font-family: Josefin Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .frame-16-4ss {
+  width: 21.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 148.9rem;
+  top: 48.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #000000;
+  font-family: Josefin Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .frame-15-LaV {
+  width: 28.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 20rem;
+  top: 48.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #000000;
+  font-family: Josefin Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.desktop-7-H93 .auto-group-yme9-pPs .join-the-movement-to-save-our-planet-its-our-one-and-only-home-and-its-in-urgent-need-of-protection-lets-come-together-to-reduce-waste-conserve-resources-and-foster-sustainable-practices-every-small-action-can-make-a-big-difference-be-a-part-of-the-solution-and-help-save-the-planet-for-future-generations-1wX {
+  width: 178.5rem;
+  height: 28.8rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 14.4rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+}
+.desktop-7-H93 .group-2-CFK {
+  margin-right: 146.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-7-H93 .group-2-CFK .beige-simple-one-line-butterfly-events-logo-1-1-9gM {
+  width: 50.7rem;
+  height: 26.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}

@@ -1,0 +1,206 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-6-KUV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-6-KUV .auto-group-vwwz-GPj {
+  width: 100%;
+  height: 14.7rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b56e6e;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .through-generous-contributions-and-volunteer-efforts-we-provide-shelter-medical-care-and-loving-homes-for-pets-who-have-been-abandoned-or-mistreated-join-us-in-making-a-difference-in-the-lives-of-these-vulnerable-animals-and-promoting-compassion-and-responsible-pet-ownership-AED {
+  max-width: 180.8rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP {
+  box-sizing: border-box;
+  padding: 3.8rem 16.2rem 1.1rem 15.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 37.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-9yi9-U8R {
+  margin-right: 22rem;
+  box-sizing: border-box;
+  padding: 1.7rem 0.4rem 1.6rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ebc5c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-9yi9-U8R .auto-group-zjbx-Q25 {
+  margin-right: 2.4rem;
+  width: 30.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-9yi9-U8R .auto-group-zjbx-Q25 .photo2023-11-0421-56-27-1-kLq {
+  width: 29.5rem;
+  height: 34.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-9yi9-U8R .auto-group-zjbx-Q25 .frame-12-Ga5 {
+  width: 30.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 29.5rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-9yi9-U8R .youre-not-just-gaining-a-loyal-companion-youre-providing-them-with-a-second-chance-at-a-happy-loving-life-choose-adoption-and-be-a-hero-to-a-furry-friend-in-need-L49 {
+  margin-bottom: 2.2rem;
+  max-width: 34.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-ifqm-yN1 {
+  box-sizing: border-box;
+  padding: 1.1rem 0.1rem 1.4rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ebc5c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-ifqm-yN1 .auto-group-cbzr-WMw {
+  margin: 0.9rem 1.988rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 29.2rem 0.012rem 0.2rem 0.2rem;
+  width: 30.4117rem;
+  height: 34.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/photo2023-11-0421-58-47-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-ifqm-yN1 .auto-group-cbzr-WMw .frame-13-cA5 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-w56y-KmK .auto-group-ifqm-yN1 .we-provide-a-safe-haven-for-abused-abandoned-and-injured-animals-offering-them-a-second-chance-at-a-happy-healthy-lifethrough-love-and-care-we-restore-their-trust-and-well-being-one-paw-at-a-time-rq7 {
+  margin-bottom: 0.3rem;
+  max-width: 35rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-ddw7-haq {
+  margin: 0rem 69.1rem 0rem 71.5rem;
+  width: calc(100% - 140.6rem);
+  height: 14.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-ddw7-haq .show-your-care-Rmj {
+  width: 19.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 9.7rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Reem Kufi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-KUV .auto-group-syvb-nmP .auto-group-ddw7-haq .image-3-viV {
+  width: 10.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}

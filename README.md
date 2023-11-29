@@ -10,6 +10,8 @@ The project "LoveLiftsUs" includes philanthropic works related to three P's ( Pe
 
 Figma
 Canva
+HTML
+CSS
 Google Forms
 
 ## Processes Done
@@ -33,12 +35,6 @@ User Interview
 To add features according to the post process ( User Interview )
 To add interactivity using javascript
 
-## Built With
-Canva
-Figma
-HTML
-CSS
-Googleforms
 
 ## Try it out
 

@@ -1,7 +1,7 @@
 # LoveLiftsUs
 
 ## Project Video
-https://youtu.be/hNX_clghmwE
+https://youtu.be/npJS1cbVLxU
 
 ## Inspiration
 "LoveLiftsUs" is more than just a website; it's a movement that brings people from all walks of life together, united by a shared mission to make the world a better place.

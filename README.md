@@ -7,16 +7,16 @@
 The project "LoveLiftsUs" includes philanthropic works related to three P's ( People , Pets and the Planet).
 
 ## TECH STACK
-
+```
 Figma
 Canva
 HTML
 CSS
 Google Forms
-
+```
 ## Processes Done
 ### Pre-Processes
-
+```
 Understanding the Problem Statement
 Brainstorming
 User Research
@@ -24,17 +24,20 @@ User Flow
 Sketching
 Color Theory
 Wireframing
+```
 ### Process
-
+```
 Prototyping
+```
 ### Post-Process
-
+```
 User Interview
-
+```
 ### What's next for LoveLiftsUs
+```
 To add features according to the post process ( User Interview )
 To add interactivity using javascript
-
+```
 
 ## Try it out
 
